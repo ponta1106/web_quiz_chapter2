@@ -76,8 +76,8 @@ const quizSet = [
     answer: 'DSN'
   },
   {
-    question: '2016年第一四半期の時点でドメイン登録者は何件？',
-    answer: '3億2,000万件'
+    question: '2016年第一四半期の時点でドメイン登録者は〇億件以上ある。',
+    answer: '3'
   },
 ];
 
